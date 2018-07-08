@@ -183,7 +183,7 @@ a {
 
 /* Contact style */
 .cat-contact-body {
-    padding: 2.5em;
+    padding: 2em 3em;
 }
 .contact-item {
     display: flex; padding: 10px 0;
